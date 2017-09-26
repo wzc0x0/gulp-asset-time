@@ -1,0 +1,21 @@
+{
+  "name": "gulp-asset-time",
+  "version": "1.0.0",
+  "description": "add time version on assets by gulp",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wzc0x0/gulp-asset-time.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "asset version",
+    "current time"
+  ],
+  "author": "wzc0x0@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wzc0x0/gulp-asset-time/issues"
+  },
+  "homepage": "https://github.com/wzc0x0/gulp-asset-time#readme"
+}
